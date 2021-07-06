@@ -1,3 +1,4 @@
+/* Menu Section CSS */
 .navbar{
   overflow: hidden;
   font-family: 'Montserrat', sans-serif;
@@ -12,6 +13,7 @@
   text-decoration: none;
   font-size: 20px;
 }
+/* All Heading */
 h1{
   margin: 0%;
   padding: 0%;
@@ -54,6 +56,9 @@ small{
   margin-bottom: 80px;
   width: 70%;
 }
+
+/* Home Section CSS */
+
 .first-section{
   display: flex;
   font-family: 'Montserrat', sans-serif;
@@ -86,6 +91,9 @@ margin-left: 250px;
 .half-width-content p{
   text-align: justify;
 }
+
+/* About Section CSS */
+
 .about-section{
   display: flex;
   background-image: url(images/Frame\ 56.png);
@@ -107,6 +115,9 @@ margin-left: 250px;
 .contact-btn{
   margin-top: 150px;
 }
+
+/* Recipie Section CSS */
+
 .recipie-content{
   text-align: center;
   margin-left: auto;
@@ -129,6 +140,9 @@ margin-left: 250px;
   width: 100%;
   border-radius: 20px;
 }
+
+/* Review Section CSS */
+
 .review-content{
   text-align: center;
   margin-left: auto;
@@ -140,6 +154,9 @@ margin-left: 250px;
   display: flex;
   margin-bottom: 50px;
 }
+
+/* Channel Section CSS */
+
 .channel-section{
   display: flex;
   text-align: center;
@@ -156,6 +173,9 @@ margin-left: 250px;
 .three-part{
   width: 100%;
 }
+
+/* Contact Section CSS */
+
 .contact-form {
   padding-bottom: 50px;
   text-align: center;
@@ -194,7 +214,11 @@ form textarea {
   font-size: 18px;
   background-image: linear-gradient(#FBA24F, #FF1E1E);
   padding: 10px 30px;
-  border-radius: 40px;}
+  border-radius: 40px;
+}
+
+/* Footer Section CSS */
+
 .footer-section{
   color: white;
   text-align: center;
