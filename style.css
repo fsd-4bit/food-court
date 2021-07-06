@@ -30,6 +30,10 @@ h3{
   font-family: 'Montserrat', sans-serif;
   font-size: 28px;
 }
+h5{
+  color: #18191F;
+  font-family: 'Montserrat', sans-serif;
+}
 p{
   font-family: 'Montserrat', sans-serif;
   font: medium;
@@ -135,6 +139,22 @@ margin-left: 250px;
 .review{
   display: flex;
   margin-bottom: 50px;
+}
+.channel-section{
+  display: flex;
+  text-align: center;
+  padding: 60px 20px;
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 20px;
+  margin: 150px 50px;
+}
+.channel-header{
+  font: bold;
+  font-size: 48px;
+  color: #18191F;
+}
+.three-part{
+  width: 100%;
 }
 .contact-form {
   padding-bottom: 50px;
